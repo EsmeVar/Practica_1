@@ -1,2 +1,1 @@
-# Practica_1
-Práctica Markdown
+# Práctica 1

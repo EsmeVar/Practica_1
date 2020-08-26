@@ -27,6 +27,7 @@ archivos de datos suplementarios publicados en revistas científicas contenían 
 debido a los parámetros de configuración de Microsoft Excel (Ziemann et al.,  2016).  
 
 ![Figura 1. Resultados de la revisión sistemática de archivos Excel suplementarios. Fuente: \(Ziemann et al., 2016).](ZiemannEtAlFig1.png)  
+Figura 1. Resultados de la revisión sistemática de archivos Excel suplementarios. Fuente: (Ziemann et al., 2016).  
 
 ## **Bibliografía**
 
